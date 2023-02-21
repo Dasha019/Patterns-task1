@@ -1,0 +1,1 @@
+![example workflow](https://github.com/Dasha019/Patterns-task1/actions/workflows/gradle.yml/badge.svg)
